@@ -1,6 +1,6 @@
-## HarmanStock
+# HarmanStock
 
-# General details:
+## General details:
 
 Configuration:
 --------------
