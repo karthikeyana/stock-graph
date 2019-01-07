@@ -4,10 +4,13 @@
 
 Configuration:
 --------------
-OS: Ubuntu 18.04
-Editor: Atom 1.33.1x64
-Git: git version 2.17.1
-Terminal: GNOME Terminal 3.28.2
+1) OS: Ubuntu 18.04,
+2) Editor: Atom 1.33.1x64,
+3) Git: git version 2.17.1,
+4) Terminal: GNOME Terminal 3.28.2,
+5) Cli: @angular/cli,
+6) node: v8.15.0,
+7) npm: 6.4.1
 
 Project creation and execution:
 -------------------------------
